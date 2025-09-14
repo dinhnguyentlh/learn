@@ -16,7 +16,7 @@ n=3
 ***
 ***
 ```
-3: Tính tổng các phần tử:  Nhập một ma trận n*n rồi tính tổng tất cả phần tử trong ma trận.
+## 3: Tính tổng các phần tử:  Nhập một ma trận n*n rồi tính tổng tất cả phần tử trong ma trận.
 ```
 n=3
 ma trận
