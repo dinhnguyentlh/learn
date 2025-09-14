@@ -1,4 +1,4 @@
-## Viết một hàm xinChao() để in ra dòng chữ: "Xin chào"
+##  Bài tập 1: Viết một hàm xinChao() để in ra dòng chữ: "Xin chào"
 
 ## Bài tập 2: Hàm tính tổng 2 số
 
@@ -12,7 +12,7 @@ Kết quả: 9
 ```
 
 
-## Hàm kiểm tra số lớn hơn 5 : nếu là số lớn hơn 5 in ra "true" nếu không phải in ra "false"
+##  Bài tập 4 Hàm kiểm tra số lớn hơn 5 : nếu là số lớn hơn 5 in ra "true" nếu không phải in ra "false"
 
 ```
 n= 5
